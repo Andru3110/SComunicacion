@@ -7,6 +7,8 @@ class Main {
     int second = 20;
     
     System.out.println(first + " " + second);
+   System.out.println(first + " " + second);
+   System.out.println(first + " " + second);
 
     // add two numbers
     int sum = first + second;
